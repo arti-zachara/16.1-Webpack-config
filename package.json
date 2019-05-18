@@ -1,0 +1,23 @@
+{
+  "name": "16.1",
+  "version": "1.0.0",
+  "description": "Kodilla task 16.3 - Configuration of webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arti-zachara/16.1-Webpack-config.git"
+  },
+  "keywords": [
+    "webpack",
+    "configuration"
+  ],
+  "author": "arti Zachara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arti-zachara/16.1-Webpack-config/issues"
+  },
+  "homepage": "https://github.com/arti-zachara/16.1-Webpack-config#readme"
+}
